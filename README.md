@@ -1,2 +1,1 @@
-# Mosberg.GitHub.io
-🖥️ GitHub Pages 🖥️ - Main github.io homepage.
+# 🖥️ GitHub Pages 🖥️ - The Main github.io homepage.
