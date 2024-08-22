@@ -17,9 +17,9 @@ document.getElementById("images_btn").addEventListener("click", () => {
   loadHTML("/images/index.html");
 });
 
-document.getElementById("softwares_btn").addEventListener("click", () => {
+document.getElementById("software_btn").addEventListener("click", () => {
   loadContent.innerHTML = "";
-  loadHTML("/softwares/index.html");
+  loadHTML("/software/index.html");
 });
 
 // Function to load an HTML file and display it in the main element
