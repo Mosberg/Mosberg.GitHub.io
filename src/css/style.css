@@ -46,6 +46,10 @@ main {
   border: black solid 1px;
 }
 
+.loadContent {
+  background-color: #370058;
+}
+
 footer {
   position: fixed;
   bottom: 0px;
