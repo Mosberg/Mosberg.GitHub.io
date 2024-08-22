@@ -43,6 +43,7 @@ main {
   justify-content: center;
   flex-direction: column;
   overflow: auto;
+  border: black solid 1px;
 }
 
 footer {
