@@ -38,16 +38,19 @@ main {
   inline-size: 100%;
   bottom: 40px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   text-align: center;
-  justify-content: center;
-  flex-direction: column;
   overflow: auto;
   border: black solid 1px;
 }
 
 .loadContent {
-  background-color: #370058;
+  background-color: #606060;
+}
+
+ul {
+  list-style-type: none;
 }
 
 footer {
