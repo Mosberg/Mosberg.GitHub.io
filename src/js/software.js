@@ -1,7 +1,7 @@
-fetch("src/json/list.json")
+fetch("/Mosberg.GitHub.io/src/json/list.json")
   .then((response) => response.json())
   .then((data) => {
-    const softwareList = document.querySelector(".software-list");
+    const softwareList = document.querySelector(".loadContent");
     const categories = data.categories;
 
     Object.keys(categories).forEach((category) => {
